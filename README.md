@@ -16,28 +16,28 @@ Check the live demo here 👉️ [https://open.cruip.com/](https://open.cruip.co
 
 Looking for more pages and components? Have a look at the **premium version** here 👉️ [https://cruip.com/demos/open-pro/](https://cruip.com/demos/open-pro/)
 
-*The premium template is built on-the-top of [Tailwind CSS](https://tailwindcss.com/), and React components have been re-built from scratch.* 
+_The premium template is built on-the-top of [Tailwind CSS](https://tailwindcss.com/), and React components have been re-built from scratch._
 
 ## Table of contents
 
-* [Usage](#usage)
-  * [Available Scripts](#available-scripts)
-    * [npm start](#npm-start)
-    * [npm test](#npm-test)
-    * [npm run build](#npm-run-build)
-    * [npm run eject](#npm-run-eject)
-  * [Learn More](#learn-more)
-    * [Code Splitting](#code-splitting)
-    * [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-    * [Making a Progressive Web App](#making-a-progressive-web-app)
-    * [Advanced Configuration](#advanced-configuration)
-    * [Deployment](#deployment)
-    * [npm run build fails to minify](#npm-run-build-fails-to-minify)
-  * [Google Analytics Setup](#google-analytics-setup)
-* [Credits](#credits)
-* [Terms and License](#terms-and-license)
-* [About Us](#about-us)
-* [Stay in the loop](#stay-in-the-loop)
+- [Usage](#usage)
+  - [Available Scripts](#available-scripts)
+    - [npm start](#npm-start)
+    - [npm test](#npm-test)
+    - [npm run build](#npm-run-build)
+    - [npm run eject](#npm-run-eject)
+  - [Learn More](#learn-more)
+    - [Code Splitting](#code-splitting)
+    - [Analyzing the Bundle Size](#analyzing-the-bundle-size)
+    - [Making a Progressive Web App](#making-a-progressive-web-app)
+    - [Advanced Configuration](#advanced-configuration)
+    - [Deployment](#deployment)
+    - [npm run build fails to minify](#npm-run-build-fails-to-minify)
+  - [Google Analytics Setup](#google-analytics-setup)
+- [Credits](#credits)
+- [Terms and License](#terms-and-license)
+- [About Us](#about-us)
+- [Stay in the loop](#stay-in-the-loop)
 
 ## Usage
 
@@ -48,9 +48,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 #### `npm install`
+
 To install the dependencies package.
 
-#### `npm start`
+#### `npm start
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
