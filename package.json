@@ -16,6 +16,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
+  "homepage":"https://tranquil-depths-95294.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
