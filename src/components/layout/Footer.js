@@ -31,12 +31,7 @@ const Footer = ({ className, topOuterDivider, topDivider, ...props }) => {
             topDivider && "has-top-divider"
           )}
         >
-          <div className="footer-top space-between text-xxs">
-            <Logo />
-            <FooterSocial />
-          </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
-            <FooterNav />
             <div className="footer-copyright">
               Template by <a href="https://cruip.com">Cruip</a>
             </div>

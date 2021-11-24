@@ -3,6 +3,8 @@ import PropTypes from "prop-types";
 import classNames from "classnames";
 import { Link } from "react-router-dom";
 import Logo from "./partials/Logo";
+import FooterSocial from "./partials/FooterSocial";
+import Button from "../elements/Button";
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -105,33 +107,18 @@ const Header = ({
                 className={classNames("header-nav", isActive && "is-active")}
               >
                 <div className="header-nav-inner">
-                  <ul
-                    className={classNames(
-                      "list-reset text-xs",
-                      navPosition && `header-nav-${navPosition}`
-                    )}
-                  >
-                    <li>
-                      <Link to="#0" onClick={closeMenu}>
-                        Attributes
-                      </Link>
-                    </li>
-                    <li>
-                      <Link to="#0" onClick={closeMenu}>
-                        Motivation
-                      </Link>
-                    </li>
-                  </ul>
                   {!hideSignin && (
                     <ul className="list-reset header-nav-right">
                       <li>
-                        <Link
-                          to="/website"
-                          className="button button-primary button-wide-mobile button-sm"
-                          onClick={closeMenu}
-                        >
-                          liannedelasalle.com
-                        </Link>
+                        <FooterSocial />
+                      </li>
+
+                      <li>
+                        <button className="headerButton">
+                          <a href="www.liannedelasalle.com">
+                            liannedelasalle.com
+                          </a>
+                        </button>
                       </li>
                     </ul>
                   )}
