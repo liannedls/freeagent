@@ -1,18 +1,18 @@
-import React from 'react';
-import PropTypes from 'prop-types';
-import classNames from 'classnames';
-import { SectionProps } from '../../utils/SectionProps';
-import Input from '../elements/Input';
+import React from "react";
+import PropTypes from "prop-types";
+import classNames from "classnames";
+import { SectionProps } from "../../utils/SectionProps";
+import Input from "../elements/Input";
 
 const propTypes = {
   ...SectionProps.types,
-  split: PropTypes.bool
-}
+  split: PropTypes.bool,
+};
 
 const defaultProps = {
   ...SectionProps.defaults,
-  split: false
-}
+  split: false,
+};
 
 const Cta = ({
   className,
@@ -25,49 +25,47 @@ const Cta = ({
   split,
   ...props
 }) => {
-
   const outerClasses = classNames(
-    'cta section center-content-mobile reveal-from-bottom',
-    topOuterDivider && 'has-top-divider',
-    bottomOuterDivider && 'has-bottom-divider',
-    hasBgColor && 'has-bg-color',
-    invertColor && 'invert-color',
+    "cta section center-content-mobile reveal-from-bottom",
+    topOuterDivider && "has-top-divider",
+    bottomOuterDivider && "has-bottom-divider",
+    hasBgColor && "has-bg-color",
+    invertColor && "invert-color",
     className
   );
 
   const innerClasses = classNames(
-    'cta-inner section-inner',
-    topDivider && 'has-top-divider',
-    bottomDivider && 'has-bottom-divider',
-    split && 'cta-split'
-  );  
+    "cta-inner section-inner",
+    topDivider && "has-top-divider",
+    bottomDivider && "has-bottom-divider",
+    split && "cta-split"
+  );
 
   return (
-    <section
-      {...props}
-      className={outerClasses}
-    >
+    <section {...props} className={outerClasses}>
       <div className="container">
-        <div
-          className={innerClasses}
-        >
-          <div className="cta-slogan">
-            <h3 className="m-0">
-              For previewing layouts and visual?
+        <div className={innerClasses}>
+          <a href="https://liannedelasalle.com">
+            <div className="cta-slogan">
+              <h3 className="m-0">
+                Visit my website for more information about me
               </h3>
-          </div>
-          <div className="cta-action">
-            <Input id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder="Your best email">
-              <svg width="16" height="12" xmlns="http://www.w3.org/2000/svg">
-                <path d="M9 5H1c-.6 0-1 .4-1 1s.4 1 1 1h8v5l7-6-7-6v5z" fill="#376DF9" />
+              <svg
+                width="24"
+                height="24"
+                xmlns="http://www.w3.org/2000/svg"
+                fill-rule="evenodd"
+                clip-rule="evenodd"
+              >
+                <path d="M21.883 12l-7.527 6.235.644.765 9-7.521-9-7.479-.645.764 7.529 6.236h-21.884v1h21.883z" />
               </svg>
-            </Input>
-          </div>
+            </div>
+          </a>
         </div>
       </div>
     </section>
   );
-}
+};
 
 Cta.propTypes = propTypes;
 Cta.defaultProps = defaultProps;
