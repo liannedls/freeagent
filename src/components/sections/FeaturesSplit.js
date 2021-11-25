@@ -51,7 +51,7 @@ const FeaturesSplit = ({
   const sectionHeader = {
     title: "Why do I believe I will be a successful Free Agent",
     paragraph:
-      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.",
+      "I go where I'm passionate, I am driven to create and solve problems, and I love to learn.",
   };
 
   return (
@@ -68,12 +68,10 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
                 </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                <h3 className="mt-0 mb-12">Problem Solving</h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  I’m a problem solver. This tendency motivated me to study
+                  engineering and has supported me in my professional roles.
                 </p>
               </div>
               <div

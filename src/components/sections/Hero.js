@@ -67,9 +67,10 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                And I'd like to apply to be a free agent. Please find a short
-                video about me and contibue below to read my professional
-                experiences in relation to listed attributes.
+                I'd like to apply to be a free agent. I hope here you can find
+                out a little bit about me and my motivation for applying. Please
+                find a short video about me and contibue below to read my
+                professional experiences in relation to listed attributes.
               </p>
             </div>
           </div>
@@ -79,7 +80,7 @@ const Hero = ({
             data-reveal-delay="800"
           >
             <a
-              data-video="https://player.vimeo.com/video/174002812"
+              data-video="https://vimeo.com/650074487"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
