@@ -98,7 +98,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
+            video="https://player.vimeo.com/video/650074487?h=d8ccfebc46&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
             videoTag="iframe"
           />
         </div>
