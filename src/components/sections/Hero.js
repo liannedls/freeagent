@@ -67,10 +67,11 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                I'd like to apply to be a free agent. I hope here you can find
-                out a little bit about me and my motivation for applying. Please
-                find a short video about me and contibue below to read my
-                professional experiences in relation to listed attributes.
+                I'd like to apply to be a free agent. I invite you to explore
+                this site to find out a little bit about me and my motivation
+                for applying. Below, you can find a short video about me and
+                then continue to read my professional experiences in relation to
+                listed attributes. Thanks for reading!
               </p>
             </div>
           </div>
@@ -87,7 +88,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require("./../../assets/images/video-placeholder.jpg")}
+                src={require("./../../assets/images/cover.png")}
                 alt="Hero"
                 width={896}
                 height={504}

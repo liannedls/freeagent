@@ -115,7 +115,7 @@ const Header = ({
 
                       <li>
                         <button className="headerButton">
-                          <a href="www.liannedelasalle.com">
+                          <a href="https://liannedelasalle.com">
                             liannedelasalle.com
                           </a>
                         </button>
