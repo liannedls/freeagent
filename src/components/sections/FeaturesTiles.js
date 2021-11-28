@@ -73,7 +73,7 @@ const FeaturesTiles = ({
                     I strive for results. I base the quality of my work on
                     results compared to my objective. In my current and past
                     roles I have been an enthusiastic user of tools used to plan
-                    and track goals (Jira, Monday.com, Azure Devops).
+                    and track project progress (Jira, Monday.com, Azure Devops).
                   </p>
                 </div>
               </div>
@@ -101,8 +101,13 @@ const FeaturesTiles = ({
                     I strive to foster empathy and humility in my life and
                     career goals. This drove me to work for the public service.
                     If I can contribute to the betterment of the lives of
-                    canadians, I can feel fulfilled in my career. Working for
-                    the public service to me means serving others.
+                    canadians, I would feel fulfilled in my career. Working for
+                    the public service to me means serving others. In another
+                    sense, I feel I have shown empathy in my professional
+                    experiences when working with clients. By exercising
+                    empathy, I can put myself in my clients should so that I can
+                    understand their problems better which allow me to truely,
+                    and more efficiently, solve them.
                   </p>
                 </div>
               </div>
@@ -159,15 +164,17 @@ const FeaturesTiles = ({
                   <p className="m-0 text-sm">
                     I’ve experienced many work environments where learning
                     quickly was critical. My first job out of university I
-                    joined a start-up, where I needed to learn quickly and
-                    contribute quickly. This experience was invaluable to my
-                    later government positions where I needed to learn platforms
+                    joined a start-up, where I needed to learn and contribute
+                    quickly. This experience was invaluable to my later
+                    government positions where I needed to learn platforms
                     quickly and contribute. While the work environment was less
                     pressured than my start-up experience, I still maintained
                     this goal. In my relatively short time at the CRTC, working
-                    in a small team of developers (3 including myself), I
+                    in a small team of developers (3, including myself), I
                     learned the infrastructure, developed features and
-                    implemented key tools.
+                    implemented key tools. In my two positions held within the
+                    government I have received feedback that I learn and
+                    contribute quickly.
                   </p>
                 </div>
               </div>
@@ -196,9 +203,10 @@ const FeaturesTiles = ({
                     have a lasting impact. I demonstrated courage in my current
                     role where I am consistently recommending an action plan in
                     a software infrastructure where there is no clear
-                    methodology. This requires me, once I have make an educated
-                    opinion about the best course of action, to implement
-                    actions and take ownership for the result.
+                    methodology (ArcGIS Enterprise). This requires me, once I
+                    have made an educated opinion about the best course of
+                    action, to implement actions and take ownership for the
+                    result.
                   </p>
                 </div>
               </div>
@@ -325,7 +333,58 @@ const FeaturesTiles = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">Curiosity</h4>
+                  <h4 className="mt-0 mb-8">Team-orientation</h4>
+                  <p className="m-0 text-sm">
+                    Duis aute irure dolor in reprehenderit in voluptate velit
+                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              className="tiles-item reveal-from-bottom"
+              data-reveal-delay="400"
+            >
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image mb-16">
+                    <Image
+                      src={require("./../../assets/images/feature-tile-icon-06.svg")}
+                      alt="Features tile icon 06"
+                      width={64}
+                      height={64}
+                    />
+                  </div>
+                </div>
+                <div className="features-tiles-item-content">
+                  <h4 className="mt-0 mb-8">Problem-solving</h4>
+                  <p className="m-0 text-sm">
+                    Duis aute irure dolor in reprehenderit in voluptate velit
+                    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
+                    occaecat cupidatat.
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div
+              className="tiles-item reveal-from-bottom"
+              data-reveal-delay="400"
+            >
+              <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image mb-16">
+                    <Image
+                      src={require("./../../assets/images/feature-tile-icon-06.svg")}
+                      alt="Features tile icon 06"
+                      width={64}
+                      height={64}
+                    />
+                  </div>
+                </div>
+                <div className="features-tiles-item-content">
+                  <h4 className="mt-0 mb-8">Persuasion</h4>
                   <p className="m-0 text-sm">
                     Duis aute irure dolor in reprehenderit in voluptate velit
                     esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
