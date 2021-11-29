@@ -66,12 +66,15 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Finding solutions
                 </div>
-                <h3 className="mt-0 mb-12">Problem Solving</h3>
+                <h3 className="mt-0 mb-12">Driven to Problem Solve</h3>
                 <p className="m-0">
                   I’m a problem solver. This tendency motivated me to study
                   engineering and has supported me in my professional roles.
+                  Working as a free agent would provide me with novel problem
+                  solving opportunities. This would be stimulating challenges
+                  for me that I would be motivated to contribute to.
                 </p>
               </div>
               <div
@@ -96,14 +99,20 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  Project based work
                 </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                <h3 className="mt-0 mb-12">
+                  I enjoy working on innovative projects
+                </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua
-                  — Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                  I’m passionate about technology and innovation. I want to be
+                  apart of projects that are creating positive change and using
+                  new ideas, tools, technologies. I like to design, develop, and
+                  build. I enjoy working on projects, in my bachelors I chose to
+                  study systems engineering as I am interested in system level
+                  understanding. I enjoy the diverse aspects of project based
+                  work where I can implement novel solutions, increase
+                  effeciency, and create positive change.
                 </p>
               </div>
               <div
@@ -130,13 +139,16 @@ const FeaturesSplit = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Love to learn
                 </div>
-                <h3 className="mt-0 mb-12">Data-driven insights</h3>
+                <h3 className="mt-0 mb-12">
+                  I love to learn and keep an open mind
+                </h3>
                 <p className="m-0">
                   I love to learn and believe it's a lifelong process. I enjoy
                   challenges and working in new environments that force me to
                   learn. I have taken opportunities at work to complete courses
                   and in my personal life, I have taken opportunities to learn
-                  new skills and technologies independently.
+                  new skills and technologies independently. I think working as
+                  a free agent would allow me to learn so much.
                 </p>
               </div>
               <div
