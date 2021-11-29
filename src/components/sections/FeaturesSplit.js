@@ -70,11 +70,12 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">Driven to Problem Solve</h3>
                 <p className="m-0">
-                  I’m a problem solver. This tendency motivated me to study
-                  engineering and has supported me in my professional roles.
-                  Working as a free agent would provide me with novel problem
-                  solving opportunities. This would be stimulating challenges
-                  for me that I would be motivated to contribute to.
+                  I’m a problem solver. I love to problem solve in both my
+                  professional and personal life. This tendency motivated me to
+                  study engineering and has supported me in my professional
+                  roles. I could utilize my problem solving experience to tackle
+                  the novel problem solving opportunities I would face working
+                  as a free agent.
                 </p>
               </div>
               <div
@@ -108,11 +109,12 @@ const FeaturesSplit = ({
                   I’m passionate about technology and innovation. I want to be
                   apart of projects that are creating positive change and using
                   new ideas, tools, technologies. I like to design, develop, and
-                  build. I enjoy working on projects, in my bachelors I chose to
-                  study systems engineering as I am interested in system level
-                  understanding. I enjoy the diverse aspects of project based
-                  work where I can implement novel solutions, increase
-                  effeciency, and create positive change.
+                  build. In my bachelors degree I chose to specialize in systems
+                  engineering since I enjoy having a system level understanding
+                  and making plans and decisions at this level. I enjoy the
+                  diverse aspects of project based work where I can implement
+                  novel solutions, increase efficiency, and create positive
+                  change.
                 </p>
               </div>
               <div
@@ -147,8 +149,9 @@ const FeaturesSplit = ({
                   challenges and working in new environments that force me to
                   learn. I have taken opportunities at work to complete courses
                   and in my personal life, I have taken opportunities to learn
-                  new skills and technologies independently. I think working as
-                  a free agent would allow me to learn so much.
+                  new skills and technologies independently. I think my
+                  propensity for learning would help me working as a free agent
+                  as this is key to working in dynamic work environments.
                 </p>
               </div>
               <div
