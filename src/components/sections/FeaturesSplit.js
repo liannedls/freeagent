@@ -145,7 +145,7 @@ const FeaturesSplit = ({
                   I love to learn and believe it's a lifelong process. I enjoy
                   challenges and working in new environments that push me to
                   learn. I have taken opportunities at work and in my personal
-                  life to learn new skills either via a course or idenpendantly.
+                  life to learn new skills either via a course or independantly.
                   I think my propensity for learning would help me working as a
                   free agent as this is key to working in dynamic work
                   environments.
