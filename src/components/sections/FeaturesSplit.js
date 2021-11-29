@@ -74,7 +74,7 @@ const FeaturesSplit = ({
                   professional and personal life. This tendency motivated me to
                   study engineering and has supported me in my professional
                   roles. Working as a free agent, I could utilize my problem
-                  solving experience to tackle the novel problems.
+                  solving experience to tackle novel problems.
                 </p>
               </div>
               <div

@@ -158,11 +158,11 @@ const FeaturesTiles = ({
                     I strive to foster empathy and humility in my life and
                     career goals. This has been extremely important when working
                     with others, collegues and clients, since it allows me to
-                    understand other better and build better relationships. I
-                    feel I have also practiced empathy in my experiences working
-                    with clients which allowed me to see their perspective which
-                    in turn allowed me to truely, and more efficiently, solve
-                    their problems.
+                    understand others better and build better relationships.
+                    Practicing empathy in my experiences working with clients
+                    has allowed me to see their perspective which in turn
+                    allowed me to truely, and more efficiently, solve their
+                    problems.
                   </p>
                 </div>
               </div>
@@ -188,9 +188,9 @@ const FeaturesTiles = ({
                   <p className="m-0 text-sm">
                     I have a passion for technology and impactful projects. I
                     want to work where I feel the work is innovative and making
-                    a positive impact. Some of my past work experiences include
+                    a positive change. Some of my past work experiences include
                     working for the CRTC’s spam reporting center, working for a
-                    makerspace which ran workshops in remote indigenous
+                    makerspace running workshops in remote indigenous
                     communities, and working in a solar research lab on emerging
                     solar technologies. In my personal time, I enjoy building
                     personal projects, participating in hackathons, and
@@ -254,8 +254,8 @@ const FeaturesTiles = ({
                     role where I am consistently recommending an action plan in
                     a software infrastructure where there is no clear
                     methodology (ArcGIS Enterprise). This requires me, once I
-                    have made an educated opinion about the best course of
-                    action, to implement actions and take ownership for the
+                    have formed an educated opinion about the best course of
+                    action, to implement these actions and take ownership of the
                     results.
                   </p>
                 </div>
@@ -348,8 +348,8 @@ const FeaturesTiles = ({
                     teams. Collaboration and teamwork with a focus on collective
                     effort rather than individual tasks are, in my opinion, key
                     to a successful workplace. Having worked with many different
-                    people and in many group dynamics, a priority of mine is
-                    always to develop positive relations with others.
+                    people and in many different group dynamics, a priority of
+                    mine is to always to develop positive relations with others.
                   </p>
                 </div>
               </div>
