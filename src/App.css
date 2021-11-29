@@ -11,3 +11,8 @@
   margin: 10px 10px;
   cursor: pointer;
 }
+
+.svg-icon {
+  width: 1em;
+  height: 1em;
+}
