@@ -281,12 +281,12 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">Reflectiveness</h4>
                   <p className="m-0 text-sm">
-                    Reflection has been key in making critical decisions in
-                    previous professional positions. Reflection has been
-                    important in both making decisions as well as
-                    troubleshooting problems. In a research assistant position,
-                    I was analyzing solar irradiance data. Reflection allowed me
-                    to find the cause of anomalies in our data. In another
+                    Reflection has been key in making critical decisions in my
+                    previous professional positions. As well, reflection was
+                    essential when solving tough problems. One of my past
+                    experiences, as a research assistant position, I was
+                    analyzing solar irradiance data. Reflection allowed me to
+                    find the cause of anomalies in our data. In another
                     professional position, my current one, reflection allowed me
                     to decide on the best course of action for data management
                     within our restrictive system.
@@ -318,10 +318,10 @@ const FeaturesTiles = ({
                     positions where I worked with legacy projects, I always
                     asked myself “Why was it made like this”. Asking these
                     questions has allowed me to better understand why certain
-                    decisions were made. This has in the past then allowed me to
-                    make suggestions based on our current environmen changed
-                    from when the legacy system was implemented. Also, asking
-                    myself “How does this work” has been key to understanding
+                    decisions were made. This has then allowed me to make
+                    suggestions based on how our current environment changed
+                    from when the legacy system was implemented. Also asking
+                    myself, “How does this work”, has been key to understanding
                     the perspective of end users.
                   </p>
                 </div>
@@ -374,13 +374,13 @@ const FeaturesTiles = ({
                   <h4 className="mt-0 mb-8">Problem-solving</h4>
                   <p className="m-0 text-sm">
                     From my free time spent playing chess, to my decision to
-                    study engineering and my passion for software development I
+                    study engineering and my passion for software development, I
                     have always enjoyed problem solving. I am most engaged when
                     problem solving and in my professional experiences have
-                    found this the most rewarding. In my current position I
-                    problem solve daily, from system design to operational
-                    emergencies. I have experience in multiple positions which
-                    employed extensive problem solving.
+                    found this very rewarding. In my current position I problem
+                    solve daily, from system design to operational emergencies.
+                    I have experience in multiple positions which employed
+                    extensive problem solving.
                   </p>
                 </div>
               </div>

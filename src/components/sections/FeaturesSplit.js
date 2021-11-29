@@ -70,12 +70,11 @@ const FeaturesSplit = ({
                 </div>
                 <h3 className="mt-0 mb-12">Driven to Problem Solve</h3>
                 <p className="m-0">
-                  I’m a problem solver. I love to problem solve in both my
+                  I’m a problem solver. I love to solve problems in both my
                   professional and personal life. This tendency motivated me to
                   study engineering and has supported me in my professional
-                  roles. I could utilize my problem solving experience to tackle
-                  the novel problem solving opportunities I would face working
-                  as a free agent.
+                  roles. Working as a free agent, I could utilize my problem
+                  solving experience to tackle the novel problems.
                 </p>
               </div>
               <div
@@ -146,12 +145,12 @@ const FeaturesSplit = ({
                 </h3>
                 <p className="m-0">
                   I love to learn and believe it's a lifelong process. I enjoy
-                  challenges and working in new environments that force me to
-                  learn. I have taken opportunities at work to complete courses
-                  and in my personal life, I have taken opportunities to learn
-                  new skills and technologies independently. I think my
-                  propensity for learning would help me working as a free agent
-                  as this is key to working in dynamic work environments.
+                  challenges and working in new environments that push me to
+                  learn. I have taken opportunities at work and in my personal
+                  life to learn new skills either via a course or idenpendantly.
+                  I think my propensity for learning would help me working as a
+                  free agent as this is key to working in dynamic work
+                  environments.
                 </p>
               </div>
               <div
