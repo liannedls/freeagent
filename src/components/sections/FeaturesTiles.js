@@ -156,15 +156,13 @@ const FeaturesTiles = ({
                   <h4 className="mt-0 mb-8">Humility & Empathy</h4>
                   <p className="m-0 text-sm">
                     I strive to foster empathy and humility in my life and
-                    career goals. This is extremely important when working with
-                    others, collegues and clients, since it allows you to see
-                    things from their perspective allowing everyone to feel
-                    better in the workplace and work better. Empathy is also
-                    important. I feel I have shown empathy in my professional
-                    experiences when working with clients. By exercising
-                    empathy, I can put myself in my clients should so that I can
-                    understand their problems better which allow me to truely,
-                    and more efficiently, solve them.
+                    career goals. This has been extremely important when working
+                    with others, collegues and clients, since it allows me to
+                    understand other better and build better relationships. I
+                    feel I have also practiced empathy in my experiences working
+                    with clients which allowed me to see their perspective which
+                    in turn allowed me to truely, and more efficiently, solve
+                    their problems.
                   </p>
                 </div>
               </div>
