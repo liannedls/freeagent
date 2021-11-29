@@ -51,7 +51,7 @@ const FeaturesSplit = ({
   const sectionHeader = {
     title: "Why do I believe I will be a successful Free Agent",
     paragraph:
-      "I go where I'm passionate, I am driven to create and solve problems, and I love to learn.",
+      "I am driven to create and solve problems, I want to work on diverse projects, and I love to learn.",
   };
 
   return (
