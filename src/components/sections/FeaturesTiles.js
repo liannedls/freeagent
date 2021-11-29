@@ -282,13 +282,13 @@ const FeaturesTiles = ({
                   <p className="m-0 text-sm">
                     Reflection has been key in making critical decisions in my
                     previous professional positions. As well, reflection was
-                    essential when solving tough problems. One of my past
-                    experiences, as a research assistant position, I was
-                    analyzing solar irradiance data. Reflection allowed me to
-                    find the cause of anomalies in our data. In another
-                    professional position, my current one, reflection allowed me
-                    to decide on the best course of action for data management
-                    within our restrictive system.
+                    essential when solving tough problems. In one of my past
+                    experiences, as a research assistant, I was analyzing solar
+                    irradiance data and reflection allowed me to find the cause
+                    of anomalies in our data. In another professional position,
+                    my current one, reflection allowed me to decide on the best
+                    course of action for data management within our restrictive
+                    system.
                   </p>
                 </div>
               </div>

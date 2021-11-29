@@ -108,12 +108,10 @@ const FeaturesSplit = ({
                   I’m passionate about technology and innovation. I want to be
                   apart of projects that are creating positive change and using
                   new ideas, tools, technologies. I like to design, develop, and
-                  build. In my bachelors degree I chose to specialize in systems
-                  engineering since I enjoy having a system level understanding
-                  and making plans and decisions at this level. I enjoy the
-                  diverse aspects of project based work where I can implement
-                  novel solutions, increase efficiency, and create positive
-                  change.
+                  build. I think my passion for this would allow me to be a
+                  successful free agent as I enjoy the diverse aspects of
+                  project based work where I can implement novel solutions,
+                  increase efficiency, and create positive change.
                 </p>
               </div>
               <div
