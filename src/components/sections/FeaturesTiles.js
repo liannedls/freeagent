@@ -219,8 +219,7 @@ const FeaturesTiles = ({
                     quickly was critical. My first job out of university I
                     joined a start-up, where I needed to learn and contribute
                     quickly. This experience was invaluable to my later
-                    government positions where I needed to learn platforms
-                    quickly and contribute. In my relatively short time at the
+                    government positions. In my relatively short time at the
                     CRTC, working in a small team of developers (3, including
                     myself), I learned the infrastructure, developed features
                     and implemented key tools. In my two positions held within
